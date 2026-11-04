@@ -1,2 +1,2 @@
-def addition(x,y) : 
+def somme(x,y)
     return x+y
