@@ -1,2 +1,1 @@
-def addition(x,y) : 
-    return x+y
+print ("Bonjour voici la médiane")
