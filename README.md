@@ -1,7 +1,10 @@
-# Portfolio Data Analyst — promotion 2026
+# Portfolio test Data Analyst — promotion 2026
 
-Mes travaux du bootcamp
+Ce projet a pour objectif de me familiariser avec github dans le cadre de ma formation Wild Code School
 
-Ceci est un test
+## Il contient : 
+- 2 fichiers .py tests
+- 1 README
 
-Section PROJET
+## Pour me joindre
+Vous avez mon adresse email !
